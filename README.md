@@ -1,4 +1,4 @@
-# telegram-invite-bot-2025
+# telegram-invite-bot-2026
 A Telegram Invite Bot is a powerful bot that helps you extract and invite members to Telegram groups or channels.
 
 # Telegram Invite Bot
@@ -7,7 +7,7 @@ A Telegram Invite Bot is a powerful bot that helps you extract and invite member
 ![Platform - Windows](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)  
 ![Platform - Mac](https://img.shields.io/badge/platform-Mac-orange?logo=apple)  
 ![Platform - VPS](https://img.shields.io/badge/platform-Windows%20VPS-blueviolet)  
-![Last Updated](https://img.shields.io/badge/updated-December%2002,%202025-informational)  
+![Last Updated](https://img.shields.io/badge/updated-January%2001,%202026-informational)  
 ![Community](https://img.shields.io/badge/community-active-brightgreen)
 
 A **Telegram Invite Bot** is a powerful tool that helps you **extract and invite members** to Telegram groups or channels. Whether you want to **scrape users** from other groups or **invite your own contact list**, this bot makes it easy—**no coding required**.
@@ -60,7 +60,7 @@ A **Telegram Invite Bot** is a powerful tool that helps you **extract and invite
 
 ## 🎥 Demo Videos
 
-**Full Demo – Telegram Invite Bot 2025**  
+**Full Demo – Telegram Invite Bot 2026**  
 Explore the bot’s full functionality in this detailed demo:  
 [![Watch the QQInvite Reel](https://img.shields.io/badge/Watch%20Reel-Vimeo-blue?logo=vimeo)](https://vimeo.com/1022062521?share=copy)  
 **Caption**: Extract, filter, and invite members automatically.
